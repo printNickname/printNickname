@@ -25,11 +25,9 @@ blocks the sites I lie to myself about.
 
 ### Known issues
 
-Says yes to techno festivals. Collects film scenes instead of finishing the film.
+Says yes to techno festivals. Finishes the film, then keeps the scene.
 Tries things first and asks what is inside afterwards.
 
 ### Unreleased
 
 A book. A summer house in Como. Street football in Brazil. Space, tourism counts.
-
-Full log, with actual dates: [berkayuzuner.com/changelog](https://berkayuzuner.com/changelog)
