@@ -1,19 +1,35 @@
-<img src="wordmark.svg" alt="Berkay Uzuner" width="300">
+# beko
 
-**Builder.** Istanbul.
+Istanbul. Compiled at ITU, management engineering.
 
-I ship AI-native apps end to end at [Scate AI](https://scate.ai). Idea, build, launch, then watch what people actually do with it instead of what I assumed they would.
+## v3.0.0
 
-Before that, two companies. One became my university's official solution center. The other raised its first commitments and then taught me when to stop. Management engineering at ITU.
+App specialist at [Scate AI](https://scate.ai). I own the app end to end: idea,
+production, launch, then whatever the numbers say next.
 
-Most of what I make doesn't live here. It lives on a site with games, a guestbook, and a changelog nobody asked for:
+## v2.0.0
 
-**[berkayuzuner.com](https://berkayuzuner.com)** &nbsp;·&nbsp; [about](https://berkayuzuner.com/about) &nbsp;·&nbsp; [cv](https://berkayuzuner.com/cv) &nbsp;·&nbsp; [writing](https://berkayuzuner.com/blog) &nbsp;·&nbsp; [play](https://berkayuzuner.com/play) &nbsp;·&nbsp; [guestbook](https://berkayuzuner.com/guestbook)
+Co-founded an LLM agent platform for e-commerce teams. Raised its first
+commitments, led a team of five, then learned the harder skill, which is stopping.
 
-The one thing I left open here is **[deep-focus](https://github.com/printNickname/deep-focus)**, a Pomodoro timer that blocks the sites I lie to myself about.
+## v1.0.0
 
----
+Co-founded a solution center for social impact work. It became my university's
+official one. Eight people, five hundred users, and a partnership with Türkiye's
+first software unicorn.
 
-Still on the list: write a book, buy a summer house in Como, play street football in Brazil, get to space (tourism counts).
+### Shipped, still running
 
-*Try first, then ask what's inside.*
+[deep-focus](https://github.com/printNickname/deep-focus), a Pomodoro timer that
+blocks the sites I lie to myself about.
+
+### Known issues
+
+Says yes to techno festivals. Collects film scenes instead of finishing the film.
+Tries things first and asks what is inside afterwards.
+
+### Unreleased
+
+A book. A summer house in Como. Street football in Brazil. Space, tourism counts.
+
+Full log, with actual dates: [berkayuzuner.com/changelog](https://berkayuzuner.com/changelog)
